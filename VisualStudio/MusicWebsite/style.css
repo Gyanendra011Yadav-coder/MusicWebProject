@@ -1,4 +1,4 @@
-<!--Adding The Google Fonts by Importing,except wrtting The Code-->
+/*Adding The Google Fonts by Importing,except wrtting The Code*/
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
 body{
@@ -23,4 +23,8 @@ nav ul{
   /*This, will be providing The Size to the TaskBar.  */
   height: 65px;
   background-color:black;
+}
+/*We Are Using this class to, handle the Size of The Image*/
+.brand img{
+
 }
