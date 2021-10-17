@@ -21,10 +21,11 @@ nav ul{
   display: flex;
   list-style-type: none;
   /*This, will be providing The Size to the TaskBar.  */
-  height: 65px;
+  height: 55px;
   background-color:black;
+  
 }
 /*We Are Using this class to, handle the Size of The Image*/
 .brand img{
-
+  width: 72px;
 }
