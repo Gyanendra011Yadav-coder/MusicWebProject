@@ -1,0 +1,28 @@
+{
+  "persons":{
+     {
+       "firstName":"John",
+       "lastName":"Joe",
+       "age":"21",
+       "id":"jddcklxhs",
+       "address":"Chicago",
+       "phone No":"7635372821"
+    },
+    {
+       "firstName":"Nand",
+       "lastName":"Kishor",
+       "age":"21",
+       "id":"hdgsns",
+       "address":"America",
+       "phone No":"736382929"
+    },
+    {
+       "firstName":"Krish",
+       "lastName":"hero",
+       "age":"22",
+       "id":"yaasjsoys",
+       "address":"Australia",
+       "phone No":"3526288252"
+   }
+}
+}
