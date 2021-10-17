@@ -1,9 +1,17 @@
+<!--Adding The Google Fonts by Importing,except wrtting The Code-->
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
 body{
   <!--Adding The background-color-->
   background-color: antiquewhite;
 }
-{
+
+*{
   <!--Adding The Margins and Padding in the Project-->
   margin: 0;
   padding: 0;
+}
+
+nav{
+  
 }
